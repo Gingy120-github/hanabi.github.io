@@ -4,6 +4,8 @@ Please visit the **[conventions website](https://hanabi.github.io/)**.
 
 This is the GitHub repository for the website. It is built with [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
+Before editing, please review the [editing guidelines](EDITING_GUIDELINES.md) to ensure consistency with the project's style.
+
 ## What is a Pull Request?
 
 If you're in the H-Group, then you might want to help edit the website. Maybe you want to fix some typos. Or maybe you want to add a new example. Or maybe you proposed a new convention, and it got voted in, and now you need to add a new section. Regardless of what you are doing, you will need to submit a _pull request_.
@@ -86,3 +88,7 @@ Editing files on the GitHub website is a pain. If you are adding a significant a
 - Now, the commit is synced to your GitHub, meaning that if you view your forked copy of the repository on GitHub.com, it should show all of the changes you made.
 - On the main page for your forked repository, click on the "Contribute" link near the top of the page, and then click on the "Open Pull Request" button. Next, click on the "Create pull request" button. Enter in a good description of the changes that you made, and then click on "Create pull request".
 - Now, wait for a maintainer to review the request. If additional changes are needed, then you can just push commits to your fork, and they will be automatically reflected in the pull request without having to do anything else.
+
+## Editing Guidelines
+
+See the [editing guidelines document](misc/editing-guidelines.md).

@@ -393,7 +393,7 @@ As we evolve our convention framework, sometimes we decide to delete existing "m
   - Instead of playing her red 1, Cathy clues red to Donald, touching a red 3 on slot 1 and a red 2 on slot 2. This must be a _Play Clue_, since these cards are not on Donald's chop.
   - Donald knows that since Cathy is not playing her red 1 and giving a clue, she must have a good reason.
   - Donald looks around the table and does not see the red 2 in anybody else's _Finesse Position_. Thus, this cannot be a _Selfish Finesse_.
-  - Donald also knows that this cannot be a _Self Finesse_. (Donald has a negative red clue on his _Finesse Position_ card.)
+  - Donald also knows that this cannot be a _Self-Finesse_. (Donald has a negative red clue on his _Finesse Position_ card.)
   - Thus, this must be a _Selfish Focus Inversion_, so Donald marks his rightmost card as red 2 for later. The other red card in his hand can be red 3, red 4, or red 5. Donald discards.
 - This convention was deleted since it was prone to misinterpretation and was too rare to be useful.
 
@@ -405,8 +405,8 @@ As we evolve our convention framework, sometimes we decide to delete existing "m
 - This is called a _Cursed Finesse_ because it requires the situation to be "cured". By performing a _Cure Blind-Play_, the move is transformed from a _Bluff_ into a real _Finesse_.
 - For example, in a 4-player game:
   - It is the first turn and nothing is played on the stacks.
-  - Bob's hand is as follows, from left to right: `red 1, blue 1, green 3, green 3`
-  - Donald's hand is as follows, from left to right: `blue 2, green 4, green 4, yellow 4`
+  - Bob's hand is, from newest to oldest: `red 1, blue 1, green 3, green 3`
+  - Donald's hand is, from newest to oldest: `blue 2, green 4, green 4, yellow 4`
   - Thus, Alice has a _Free Choice_ between cluing blue to Donald and number 2 to Donald. If Alice chooses blue, then it will cause a _Bluff_ (as a 2-for-1). If Alice chooses number 2, it will cause a _Clandestine Finesse_ (as a 3-for-1).
   - Alice clues blue to Donald, touching a single blue 2.
   - Bob tries to blind-play the blue 1 from his _Finesse Position_. Instead, it is a red 1 and it successfully plays. Bob now knows that he was _Bluffed_.
@@ -556,7 +556,7 @@ As we evolve our convention framework, sometimes we decide to delete existing "m
 - However, if Cathy sees a clue that she can give that will turn the move into a _Clandestine Finesse_ on Bob, then she must always do that.
 - For example, in a 4-player game:
   - It is the first turn of the game and nothing is played on the stacks.
-  - Bob's hand is as follows, from newest to oldest: `red 1, blue 2, blue 1, blue 5`
+  - Bob's hand is, from newest to oldest: `red 1, blue 2, blue 1, blue 5`
   - Donald hand has a red 2 in it.
   - Alice clues number 2 to Bob, touching a blue 2 on slot 2.
   - Bob blind-plays the red 1.

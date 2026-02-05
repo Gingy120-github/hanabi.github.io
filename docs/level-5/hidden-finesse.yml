@@ -20,7 +20,7 @@ players:
       - type: x
       - type: rm
         above: Rainbow 3
-        below: Finesse
+        below: Prompt
       - type: x
       - type: x
   - cards:
